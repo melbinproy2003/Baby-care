@@ -11,7 +11,6 @@ Welcome to the Baby Care project! This web application is designed to help paren
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
@@ -65,17 +64,7 @@ Follow these steps to set up the project locally:
 - **Backend:** PHP
 - **Database:** MySQL
 - **Version Control:** Git
-
-## Contributing
-
-Contributions are welcome! If you have suggestions or improvements, please fork the repository and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
+  
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.

@@ -11,7 +11,6 @@ Welcome to the Baby Care project! This web application is designed to help paren
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
-- [License](#license)
 - [Contact](#contact)
 
 ## Features
@@ -64,10 +63,6 @@ Follow these steps to set up the project locally:
 - **Backend:** PHP
 - **Database:** MySQL
 - **Version Control:** Git
-  
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
